@@ -12,3 +12,4 @@ $duck->display();
 $duck->performFly();
 $duck->performQuack();
 echo '\n';
+echo '\n';
