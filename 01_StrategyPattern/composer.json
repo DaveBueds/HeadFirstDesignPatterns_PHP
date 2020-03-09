@@ -1,0 +1,9 @@
+{
+  "name": "davidbueds/simUDuck",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "": "./"
+    }
+  }
+}

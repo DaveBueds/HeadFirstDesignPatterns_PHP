@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b194aaea-bd6a-427f-bac8-31350426f2fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01_StrategyPattern/RubberDuck.php" beforeDir="false" afterPath="$PROJECT_DIR$/01_StrategyPattern/RubberDuck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_StrategyPattern/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/01_StrategyPattern/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583757873251</updated>
-      <workItem from="1583757874721" duration="1635000" />
+      <workItem from="1583757874721" duration="2183000" />
     </task>
     <servers />
   </component>
