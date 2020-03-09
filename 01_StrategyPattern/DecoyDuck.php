@@ -17,6 +17,6 @@ class DecoyDuck extends Duck
 
     public function display()
     {
-        echo 'Im a Mallard duck';
+        echo 'Im a Decoy duck';
     }
 }
