@@ -1,8 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b194aaea-bd6a-427f-bac8-31350426f2fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/DecoyDuck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/Duck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/FlyBehavior.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/FlyNoWay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/FlyWithWings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/MallardDuck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/MuteQuack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/Quack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/QuackBehavior.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/RedheadDuck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/RubberDuck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_StrategyPattern/Squeak.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YtNLPDX25BMNjlNfNL8uYv0Wcz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b194aaea-bd6a-427f-bac8-31350426f2fe" name="Default Changelist" comment="" />
+      <created>1583757873251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583757873251</updated>
+      <workItem from="1583757874721" duration="568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="162" width="476" height="752" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583758353797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="712" y="162" width="476" height="752" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1583758353797" />
+    <state x="622" y="353" width="665" height="371" key="NewPhpClassDialog" timestamp="1583758342517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="353" width="665" height="371" key="NewPhpClassDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1583758342517" />
+    <state x="755" y="465" width="399" height="147" key="NewPhpFileDialog" timestamp="1583758266595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="755" y="465" width="399" height="147" key="NewPhpFileDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1583758266595" />
   </component>
 </project>
