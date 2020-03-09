@@ -2,7 +2,10 @@
 declare(strict_types=1);
 
 
-class Quack
+class Quack implements QuackBehavior
 {
-
+    public function quack()
+    {
+        echo 'Quack';
+    }
 }
