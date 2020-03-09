@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 abstract class Duck
 {
-    protected FlyBehavior $flyBehavior;
-    protected QuackBehavior $quackBehavior;
+    protected $flyBehavior;
+    protected $quackBehavior;
 
     abstract public function swim();
     abstract public function display();
