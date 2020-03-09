@@ -2,7 +2,31 @@
 declare(strict_types=1);
 
 
-class Duck
+abstract class Duck
 {
+    protected FlyBehavior $flyBehavior;
+    protected QuackBehavior $quackBehavior;
 
+    abstract public function swim();
+    abstract public function display();
+
+    public function performFly()
+    {
+        $this->flyBehavior->fly();
+    }
+
+    public function performQuack()
+    {
+        $this->quackBehavior->quack();
+    }
+
+    public function setFlyBehavior(FlyBehavior $flyBehavior)
+    {
+        $this->flyBehavior = $flyBehavior;
+    }
+
+    public function setQuackBehavior(QuackBehavior $quackBehavior)
+    {
+        $this->quackBehavior = $quackBehavior;
+    }
 }
